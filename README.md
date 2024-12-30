@@ -20,6 +20,7 @@ Embora meu foco seja backend, também tenho experiência com desenvolvimento fro
 ### Frontend (Experiência Complementar)
 ![Static Badge](https://img.shields.io/badge/React-gray?logo=react&logoColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Next.js-gray?logo=nextdotjs&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Shadcn%2Fui-gray?logo=shadcnui&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Tailwindcss-gray?logo=tailwindcss&logoColor=%2306B6D4)
 ![Static Badge](https://img.shields.io/badge/Html5-gray?logo=html5&logoColor=%23E34F26)
 
